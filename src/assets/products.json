@@ -1,0 +1,62 @@
+[
+  {
+    "ID": "001",
+    "Name": "Eurasian Collared-Dove",
+    "Type": "Dove",
+    "Qty": "2"
+  },
+  {
+    "ID": "002",
+    "Name": "Bald Eagle",
+    "Type": "Hawk",
+    "Qty": "2"
+  },
+  {
+    "ID": "003",
+    "Name": "Cooper's Hawk",
+    "Type": "Hawk",
+    "Qty": "7"
+  },
+  {
+    "ID": "004",
+    "Name": "Bell's Sparrow",
+    "Type": "Sparrow",
+    "Qty": "5"
+  },
+  {
+    "ID": "005",
+    "Name": "Mourning Dove",
+    "Type": "Dove",
+    "Qty": "1"
+  },
+  {
+    "ID": "006",
+    "Name": "Rock Pigeon",
+    "Type": "Dove",
+    "Qty": "3"
+  },
+  {
+    "ID": "007",
+    "Name": "Abert's Towhee",
+    "Type": "Sparrow",
+    "Qty": "8"
+  },
+  {
+    "ID": "008",
+    "Name": "Brewer's Sparrow",
+    "Type": "Sparrow",
+    "Qty": "10"
+  },
+  {
+    "ID": "009",
+    "Name": "Canyon Towhee",
+    "Type": "Sparrow",
+    "Qty": "6"
+  },
+  {
+    "ID": "010",
+    "Name": "Black Vulture",
+    "Type": "Hawk",
+    "Qty": "15"
+  }
+]
